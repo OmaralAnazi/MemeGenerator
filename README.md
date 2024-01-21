@@ -12,7 +12,7 @@
 
 ## Learnings
 - Utilizing event listeners in React to handle user interactions.
-- Managing and updating state to reflect changes in the user interface.
+- Managing and updating the state to reflect changes in the user interface.
 - Implementing conditional rendering to display content dynamically.
 - Working with forms in React to capture user input.
 - Handling side effects in React components using lifecycle methods and hooks.
@@ -21,4 +21,4 @@
 To view this project, clone the repository to your local machine and open the `index.html` file in a web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://spectacular-croissant-c04e99.netlify.app/)
